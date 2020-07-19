@@ -6,7 +6,7 @@ Currently curious about:
 
 Being kept busy at work with:
 - Engineering management (teams/teams of teams)
-- Performance, Scale, and Security
+- Building systems for speed, scale, and security
 
 Ongoing obsession with:
 - Personal finance
