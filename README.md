@@ -1,16 +1,19 @@
-### Hi there 👋
+I write a (mostly) technical blog at [tjaddison.com][my blog], and you can also find me on [LinkedIn] or [Twitter] (though you won't find many tweets to my name).
 
-<!--
-**taddison/taddison** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Currently curious about:
+- JavaScript (react, nextjs, gatsbyjs)
+- Knowledge management (~digital gardens)
 
-Here are some ideas to get you started:
+Being kept busy at work with:
+- Engineering management (teams/teams of teams)
+- Performance, Scale, and Security
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+Ongoing obsession with:
+- Personal finance
+- MS SQL 😍
+- Automation
+- Personal finance 
+
+[my blog]: https://tjaddison.com/blog
+[linkedin]: https://www.linkedin.com/in/tjaddison/
+[twitter]: https://twitter.com/tjaddison
