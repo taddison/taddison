@@ -3,15 +3,16 @@ I write a (mostly) technical blog at [tjaddison.com][my blog], and you can also 
 Currently curious about:
 - JavaScript (react, nextjs, gatsbyjs)
 - Knowledge management (~digital gardens)
+- Quantified self
 
-Being kept busy at work with:
+Been busy at work with:
 - Engineering management (teams/teams of teams)
 - Building systems for speed, scale, and security
+- Doing more with less (time, money)
 
 Ongoing obsession with:
-- Personal finance
 - MS SQL 😍
-- Automation
+- Automation (most recently with PowerShell)
 - Personal finance 
 
 [my blog]: https://tjaddison.com/blog
